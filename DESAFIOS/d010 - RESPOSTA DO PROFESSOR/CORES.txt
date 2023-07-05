@@ -1,0 +1,67 @@
+
+
+PARTES DO SITE
+
+Parte 1 - Header
+Parte 2 - Apresentação
+Parte 3 - Video
+Parte 4 - O que aprender( o que tem listas)
+Parte 5 - Footer
+___________________________________
+
+DEGRADÊ DO HEADER: p1
+
+cima:  #3bd680
+baixo: #195a36
+---------------------
+
+TEXTO:
+
+verde: #1b5d38
+branco: #
+preto: #
+----------------------
+
+FUNDO GERAL: p2-p4
+
+Verde: #84e1ad
+---------------------------
+
+DEGRADÊ DO FUNDO DO TXT VERDE: p2
+
+ - Lados
+esquerdo: #f8fdfa
+Direito #c5ebd6 
+----------------------
+
+FUNDO DO VIDEO: p3
+
+Verde: #1a5c38
+----------------------
+
+Cores p4
+
+destaque do p4: #2fa866
+Cor do fundo das Listas: #c5ebd6
+----------------------------------
+
+P5
+cor do fundo do FOOTER: #1a5c38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

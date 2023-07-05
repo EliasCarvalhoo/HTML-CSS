@@ -1,0 +1,14 @@
+
+
+Tags em HTML 
+
+Em HTML5, podemos inserir os elementos da lista a seguir. Passe o mouse
+sobre os termos pra desocbrir qual tag deverá ultilar em casa caso
+
+Parágrafo
+Títulos
+Imagens
+Abreviações
+Códico-fonte
+Lista Numeradas
+Listaas com demarcadores
